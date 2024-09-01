@@ -81,6 +81,19 @@ docker pull your-preferred-mirror.com/library/alpine:latest
 4. 推送到分支 (git push origin feature/new-mirror)
 5. 创建一个新的 Pull Request
 
+## 感谢
+
+特别感谢以下人员和组织对本项目的支持与贡献：
+
+- **DaoCloud** 提供官方镜像源
+- **1Panel** 提供多个加速镜像源
+- **爱铭网络** 提供镜像加速服务
+- **棉花云** 提供镜像加速服务
+- [imashen/docker-aio](https://github.com/imashen/docker-aio) 提供镜像加速服务
+- 所有通过 Pull Request 贡献镜像地址和改进建议的开发者们
+
+感谢你们的支持与贡献，使得本项目能够持续改进和发展！
+
 ## 免责声明
 
 本项目中的所有内容仅供参考，使用本项目提供的信息和服务的风险由用户自行承担。用户在使用过程中应确保遵守所在国家和地区的相关法律法规。我们不对因使用本项目内容而引发的任何直接或间接损失承担责任。使用本项目即表示您同意自行承担可能的风险，并遵守相关法律法规。
